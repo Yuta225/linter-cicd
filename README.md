@@ -1,3 +1,4 @@
-# linter-cicd
+# practice-cicd
 
-practice GitHub Actions CICD
+CICDの学習用repos.
+
